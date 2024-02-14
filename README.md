@@ -26,7 +26,7 @@ I am a self-taught Backend Developer <img src="https://media.giphy.com/media/3oK
 - 🗓️ Have experience in FinTech, within the automotive sector.
 - 🌱 Outside of work I am exploring containers and orchestration with K8s and Docker - I have a Raspi Cluster build in progress.
 - ⚡ In my free time I like to solve problems on <a href="https://www.codewars.com/users/CharlieSaunders">Codewars</a> and enjoy the weekly C# Digest. 
-- 😻 2 beautiful little catto's
+- 😻 A beautiful little catto
 
 ---
 
