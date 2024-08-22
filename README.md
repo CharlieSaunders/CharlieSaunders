@@ -20,7 +20,7 @@
 ### &nbsp;About Me :
 Software Engineer <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="20"> from the UK.
 
-- 🔭 Working as part of a team within a international Golden Circle law firm
+- 🔭 Working as part of a team within an international Golden Circle law firm
 - 💻 My current work is within the LegalTech sector.
 - 🗓️ Have experience in FinTech, within the automotive sector.
 - 🌱 Outside of work I am exploring containers and orchestration with K8s and Docker - I have a Raspi Cluster build in progress.
