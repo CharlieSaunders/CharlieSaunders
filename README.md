@@ -18,7 +18,7 @@
 </h1>
 
 ### &nbsp;About Me :
-Software Engineer <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="20"> from the UK.
+Software Developer <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="20"> from the UK.
 
 - 🔭 Working as part of a team within an international Golden Circle law firm
 - 💻 My current work is within the LegalTech sector.
