@@ -23,7 +23,7 @@ Software Developer <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/gi
 - 🔭 Working as part of a team within an international law firm.
 - 💻 My current work is within the LegalTech sector.
 - 🗓️ Have experience in FinTech, within the automotive sector.
-- 🌱 Outside of work I am exploring containers and orchestration with K8s and Docker - I have a Raspi Cluster build in progress.
+- 🌱 Outside of work I am exploring a custom CI/CD pipeline with Python (to replace reliance GH Actions)
 - ⚡ In my free time I like to solve problems on <a href="https://www.codewars.com/users/CharlieSaunders">Codewars</a> and enjoy the weekly C# Digest. 
 - 😻 A beautiful little catto
 
